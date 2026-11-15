@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.DS_Store
+# Database is rebuilt by `python train.py`
+pharmacy.db

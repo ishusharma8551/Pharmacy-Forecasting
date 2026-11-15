@@ -1,0 +1,3 @@
+SYNTHETIC DATA - generated for demonstration only. No real patient or pharmacy data is used.
+Medicine names are generic names used only for realism; manufacturers are fictional; all quantities, prices, dates and sales are randomly generated.
+As-of date of the inventory snapshot: 2025-12-30

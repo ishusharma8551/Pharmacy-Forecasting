@@ -1,0 +1,58 @@
+Horizon,Feature,Importance,Model
+7,day_of_week,0.0005103949047941416,Linear Regression
+7,day_of_month,0.0021261721123083757,Linear Regression
+7,week_of_year,0.01064949042407257,Linear Regression
+7,month,0.0010353635414140213,Linear Regression
+7,season,0.0006813802887733198,Linear Regression
+7,is_weekend,0.0006916335916705388,Linear Regression
+7,lag_0,0.0016910086011020682,Linear Regression
+7,lag_1,0.0036925997533332477,Linear Regression
+7,lag_6,0.0017092797466699,Linear Regression
+7,lag_13,0.008689802122686722,Linear Regression
+7,lag_27,0.012877839632348826,Linear Regression
+7,roll_mean_7,0.020082797738943035,Linear Regression
+7,roll_mean_14,0.18376574060130785,Linear Regression
+7,roll_mean_28,0.6578758642645174,Linear Regression
+7,roll_std_7,0.011932456674164723,Linear Regression
+7,roll_std_28,0.027840888125153958,Linear Regression
+7,medicine_code,0.031487655554861896,Linear Regression
+7,category_code,0.016635870078117447,Linear Regression
+7,seasonal_code,0.006023762243759685,Linear Regression
+15,day_of_week,0.0006263691558970754,Linear Regression
+15,day_of_month,0.002293360093938877,Linear Regression
+15,week_of_year,0.013909923627737185,Linear Regression
+15,month,0.003583772700130799,Linear Regression
+15,season,0.0027078116134307446,Linear Regression
+15,is_weekend,0.0026476630143275263,Linear Regression
+15,lag_0,0.0044830006823279684,Linear Regression
+15,lag_1,0.0007851701238587386,Linear Regression
+15,lag_6,0.0015419317273186034,Linear Regression
+15,lag_13,0.004734138431304874,Linear Regression
+15,lag_27,0.008853741643109458,Linear Regression
+15,roll_mean_7,0.05570928427370766,Linear Regression
+15,roll_mean_14,0.20794719173312895,Linear Regression
+15,roll_mean_28,0.587180754585057,Linear Regression
+15,roll_std_7,0.01756387125227415,Linear Regression
+15,roll_std_28,0.021093607357938186,Linear Regression
+15,medicine_code,0.03637670169186695,Linear Regression
+15,category_code,0.01925329705618956,Linear Regression
+15,seasonal_code,0.00870840923645561,Linear Regression
+30,day_of_week,0.00024604389909654856,XGBoost
+30,day_of_month,0.0011865781852975488,XGBoost
+30,week_of_year,0.009154063649475574,XGBoost
+30,month,0.013330272398889065,XGBoost
+30,season,0.03206323832273483,XGBoost
+30,is_weekend,0.0005264559295028448,XGBoost
+30,lag_0,0.001197254634462297,XGBoost
+30,lag_1,0.0007134002516977489,XGBoost
+30,lag_6,0.0010219610994681716,XGBoost
+30,lag_13,0.0010421809274703264,XGBoost
+30,lag_27,0.0013207686133682728,XGBoost
+30,roll_mean_7,0.055613428354263306,XGBoost
+30,roll_mean_14,0.3735696077346802,XGBoost
+30,roll_mean_28,0.46349018812179565,XGBoost
+30,roll_std_7,0.002190405037254095,XGBoost
+30,roll_std_28,0.0052675227634608746,XGBoost
+30,medicine_code,0.021192077547311783,XGBoost
+30,category_code,0.0057719675824046135,XGBoost
+30,seasonal_code,0.011102651245892048,XGBoost

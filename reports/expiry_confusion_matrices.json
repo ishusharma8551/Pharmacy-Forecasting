@@ -1,0 +1,89 @@
+{
+  "labels": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "matrices": {
+    "Rule baseline (forecast unsold ratio)": [
+      [
+        205,
+        28,
+        1
+      ],
+      [
+        12,
+        125,
+        22
+      ],
+      [
+        1,
+        15,
+        192
+      ]
+    ],
+    "Logistic Regression": [
+      [
+        209,
+        24,
+        1
+      ],
+      [
+        19,
+        114,
+        26
+      ],
+      [
+        1,
+        21,
+        186
+      ]
+    ],
+    "Decision Tree": [
+      [
+        203,
+        31,
+        0
+      ],
+      [
+        22,
+        113,
+        24
+      ],
+      [
+        0,
+        42,
+        166
+      ]
+    ],
+    "Random Forest": [
+      [
+        206,
+        28,
+        0
+      ],
+      [
+        12,
+        125,
+        22
+      ],
+      [
+        1,
+        35,
+        172
+      ]
+    ]
+  },
+  "label_distribution": {
+    "train": {
+      "Low": 476,
+      "High": 431,
+      "Medium": 384
+    },
+    "test": {
+      "Low": 234,
+      "High": 208,
+      "Medium": 159
+    }
+  }
+}

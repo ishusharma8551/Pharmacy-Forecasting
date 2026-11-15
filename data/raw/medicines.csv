@@ -1,0 +1,61 @@
+Medicine_ID,Medicine_Name,Category,Manufacturer,Purchase_Price,Selling_Price,Supplier_Lead_Time,Seasonal_Demand,Minimum_Stock_Level,Maximum_Stock_Level,Data_Source
+MED001,Paracetamol 500mg,Pain & Fever,BioCare Formulations,12.06,16.98,5,Monsoon,202,2625,SYNTHETIC
+MED002,Ibuprofen 400mg,Pain & Fever,Vitalis Pharmaceuticals,3.22,4.44,10,Non-seasonal,201,1407,SYNTHETIC
+MED003,Diclofenac 50mg,Pain & Fever,Sanora Lifesciences,3.67,4.63,6,Non-seasonal,170,1863,SYNTHETIC
+MED004,Aceclofenac 100mg,Pain & Fever,CureNova Pharma,10.37,13.3,9,Non-seasonal,147,1127,SYNTHETIC
+MED005,Naproxen 250mg,Pain & Fever,Aarogya Generics,9.21,12.88,2,Non-seasonal,53,1626,SYNTHETIC
+MED006,Mefenamic Acid 500mg,Pain & Fever,BioCare Formulations,11.86,17.09,5,Non-seasonal,122,1578,SYNTHETIC
+MED007,Amoxicillin 500mg,Antibiotics,Sanora Lifesciences,48.48,62.54,3,Winter,43,900,SYNTHETIC
+MED008,Azithromycin 500mg,Antibiotics,BioCare Formulations,16.02,22.0,8,Winter,83,700,SYNTHETIC
+MED009,Ciprofloxacin 500mg,Antibiotics,Aarogya Generics,24.94,32.19,5,Monsoon,88,1138,SYNTHETIC
+MED010,Cefixime 200mg,Antibiotics,BioCare Formulations,14.76,17.98,6,Monsoon,83,903,SYNTHETIC
+MED011,Doxycycline 100mg,Antibiotics,Healwell Labs,30.73,41.8,9,Non-seasonal,138,1058,SYNTHETIC
+MED012,Metronidazole 400mg,Antibiotics,CureNova Pharma,51.28,64.93,9,Monsoon,95,721,SYNTHETIC
+MED013,Cefuroxime 250mg,Antibiotics,BioCare Formulations,43.49,52.62,3,Winter,40,827,SYNTHETIC
+MED014,Cefpodoxime 200mg,Antibiotics,Sanora Lifesciences,48.92,66.61,7,Non-seasonal,57,542,SYNTHETIC
+MED015,Metformin 500mg,Diabetes,Vitalis Pharmaceuticals,15.39,18.34,7,Non-seasonal,175,1668,SYNTHETIC
+MED016,Glimepiride 2mg,Diabetes,BioCare Formulations,21.05,27.78,6,Non-seasonal,63,684,SYNTHETIC
+MED017,Sitagliptin 100mg,Diabetes,Vitalis Pharmaceuticals,20.14,26.54,6,Non-seasonal,140,1530,SYNTHETIC
+MED018,Gliclazide 80mg,Diabetes,Zenith Remedies,3.83,4.65,5,Non-seasonal,72,935,SYNTHETIC
+MED019,Vildagliptin 50mg,Diabetes,Medora Pharma,26.04,30.4,4,Non-seasonal,89,1409,SYNTHETIC
+MED020,Amlodipine 5mg,Cardiac,CureNova Pharma,13.86,18.26,7,Non-seasonal,115,1099,SYNTHETIC
+MED021,Atorvastatin 10mg,Cardiac,CureNova Pharma,27.58,38.45,5,Non-seasonal,46,587,SYNTHETIC
+MED022,Losartan 50mg,Cardiac,Medora Pharma,3.84,5.25,2,Non-seasonal,30,923,SYNTHETIC
+MED023,Telmisartan 40mg,Cardiac,Aarogya Generics,8.97,10.73,6,Non-seasonal,88,968,SYNTHETIC
+MED024,Metoprolol 50mg,Cardiac,Healwell Labs,19.51,24.2,5,Non-seasonal,62,797,SYNTHETIC
+MED025,Rosuvastatin 10mg,Cardiac,Aarogya Generics,16.39,19.43,2,Non-seasonal,16,478,SYNTHETIC
+MED026,Clopidogrel 75mg,Cardiac,CureNova Pharma,36.62,45.03,8,Non-seasonal,223,1895,SYNTHETIC
+MED027,Furosemide 40mg,Cardiac,Zenith Remedies,31.81,40.87,8,Non-seasonal,102,865,SYNTHETIC
+MED028,Pantoprazole 40mg,Gastro,CureNova Pharma,4.7,6.05,10,Non-seasonal,69,479,SYNTHETIC
+MED029,Omeprazole 20mg,Gastro,Sanora Lifesciences,10.57,12.72,7,Non-seasonal,53,503,SYNTHETIC
+MED030,Rabeprazole 20mg,Gastro,CureNova Pharma,23.24,29.74,8,Non-seasonal,137,1162,SYNTHETIC
+MED031,Domperidone 10mg,Gastro,Medora Pharma,18.35,21.57,7,Monsoon,119,1132,SYNTHETIC
+MED032,Ondansetron 4mg,Gastro,Healwell Labs,3.17,3.96,6,Monsoon,129,1412,SYNTHETIC
+MED033,ORS Sachet,Gastro,Healwell Labs,4.9,5.89,7,Summer,66,627,SYNTHETIC
+MED034,Lactulose Syrup,Gastro,CureNova Pharma,18.27,24.25,5,Non-seasonal,71,919,SYNTHETIC
+MED035,Cetirizine 10mg,Respiratory & Allergy,CureNova Pharma,115.15,159.46,6,Winter,103,1128,SYNTHETIC
+MED036,Levocetirizine 5mg,Respiratory & Allergy,BioCare Formulations,59.94,85.79,6,Winter,54,590,SYNTHETIC
+MED037,Montelukast 10mg,Respiratory & Allergy,Sanora Lifesciences,58.4,72.97,4,Winter,33,514,SYNTHETIC
+MED038,Salbutamol Inhaler,Respiratory & Allergy,Zenith Remedies,54.35,75.98,2,Winter,23,689,SYNTHETIC
+MED039,Dextromethorphan Cough Syrup,Respiratory & Allergy,Zenith Remedies,19.41,22.95,6,Winter,53,574,SYNTHETIC
+MED040,Loratadine 10mg,Respiratory & Allergy,,35.9,49.11,7,Winter,102,970,SYNTHETIC
+MED041,Fexofenadine 120mg,Respiratory & Allergy,Vitalis Pharmaceuticals,15.61,19.03,10,Winter,65,451,SYNTHETIC
+MED042,Vitamin C 500mg,Vitamins & Supplements,,45.72,63.96,5,Winter,83,1072,SYNTHETIC
+MED043,Vitamin D3 60000IU,Vitamins & Supplements,Healwell Labs,27.42,33.93,10,Non-seasonal,99,691,SYNTHETIC
+MED044,Vitamin B12 1500mcg,Vitamins & Supplements,Aarogya Generics,22.71,27.24,10,Non-seasonal,93,646,SYNTHETIC
+MED045,Calcium + D3,Vitamins & Supplements,Aarogya Generics,36.5,51.74,10,Non-seasonal,180,1254,SYNTHETIC
+MED046,Iron + Folic Acid,Vitamins & Supplements,Healwell Labs,71.59,93.47,10,Non-seasonal,145,1013,SYNTHETIC
+MED047,Multivitamin,Vitamins & Supplements,Zenith Remedies,62.44,78.81,7,Non-seasonal,92,873,SYNTHETIC
+MED048,Clotrimazole Cream,Dermatology,CureNova Pharma,159.49,228.24,4,Monsoon,10,152,SYNTHETIC
+MED049,Betamethasone Cream,Dermatology,Medora Pharma,59.64,71.33,9,Non-seasonal,41,314,SYNTHETIC
+MED050,Mupirocin Ointment,Dermatology,BioCare Formulations,135.9,164.29,9,Non-seasonal,33,249,SYNTHETIC
+MED051,Calamine Lotion,Dermatology,Zenith Remedies,164.38,213.73,10,Summer,47,324,SYNTHETIC
+MED052,Ketoconazole Shampoo,Dermatology,Healwell Labs,42.23,50.23,4,Non-seasonal,32,499,SYNTHETIC
+MED053,Adapalene Gel,Dermatology,Zenith Remedies,59.49,80.8,6,Non-seasonal,22,237,SYNTHETIC
+MED054,Levothyroxine 25mcg,Thyroid,Sanora Lifesciences,2.8,3.82,9,Non-seasonal,55,422,SYNTHETIC
+MED055,Levothyroxine 50mcg,Thyroid,CureNova Pharma,2.52,3.6,3,Non-seasonal,30,627,SYNTHETIC
+MED056,Levothyroxine 100mcg,Thyroid,Healwell Labs,3.2,4.32,6,Non-seasonal,108,1184,SYNTHETIC
+MED057,Povidone Iodine 5%,Antiseptic & First Aid,Aarogya Generics,64.37,74.51,10,Non-seasonal,49,341,SYNTHETIC
+MED058,Chlorhexidine Mouthwash,Antiseptic & First Aid,Sanora Lifesciences,106.08,126.46,2,Non-seasonal,12,346,SYNTHETIC
+MED059,Lubricant Eye Drops,Antiseptic & First Aid,Healwell Labs,145.95,208.69,7,Summer,25,239,SYNTHETIC
+MED060,Zinc Sulphate 20mg,Antiseptic & First Aid,BioCare Formulations,86.09,99.46,9,Monsoon,64,484,SYNTHETIC

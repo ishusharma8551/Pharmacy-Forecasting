@@ -1,0 +1,9 @@
+Feature,Importance,Model
+expected_unsold_ratio,0.8976666556421663,Decision Tree
+predicted_daily_demand,0.028778301741184488,Decision Tree
+stock_turnover,0.02677199067468493,Decision Tree
+avg_daily_sales_28,0.02060425817111573,Decision Tree
+category_code,0.017109175534946938,Decision Tree
+days_until_expiry,0.005312085395208983,Decision Tree
+current_stock,0.0026893875219492157,Decision Tree
+batch_quantity,0.0010681453187433812,Decision Tree
